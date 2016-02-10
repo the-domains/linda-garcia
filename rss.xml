@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Happy Free Love]]></title>
         <description><![CDATA[Happy Free Love]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linda-garcia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 23:06:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 23:20:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linda-garcia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It's Alive!]]></title>
-            <description><![CDATA[<article><h1>It's Alive!</h1><p>It' alive!  Creating my world with "The Grid"</p></article>]]></description>
-            <link>undefinedits-alive/index.html</link>
+            <description><![CDATA[<article><h1>It's Alive!</h1><p>It' alive!  Creating my world with "The Grid"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dbb636d9208a4de5caf51f1d027f1592fa89f13.jpg"></article>]]></description>
+            <link>https://thegrid.ai/linda-garcia/its-alive/index.html</link>
             <guid isPermaLink="false">3a2b6163-bb58-4aab-9265-8bb99775535a</guid>
-            <pubDate>Wed, 10 Feb 2016 23:06:52 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 23:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
