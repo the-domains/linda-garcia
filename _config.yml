@@ -1,14 +1,7 @@
-color:
-  saturation: 1
-  brandStrength: 0.4960816
-  rhythmicContrast: 0.6738351
-  brandColors:
-    - '#1F0201'
-    - '#FCFBFA'
-    - '#C5BDBE'
-    - '#EAAB89'
-    - '#A35331'
-  lightness: 1
+name: Linda Garcia
+favicon: null
+layout_spectrum: 0.9336917
+typography_spectrum: 0.3727598
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9336917
-typography_spectrum: 0.3727598
-name: Linda Garcia
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e6e6e8'
+    - '#3ae2fc'
+    - '#d3b5b3'
+    - '#131017'
+    - '#433e45'
+  brandStrength: 0.4960816
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.6738351
+purpose: []
