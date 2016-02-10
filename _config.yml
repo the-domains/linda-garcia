@@ -1,14 +1,26 @@
-layout_spectrum: 0.9336917
 color:
   saturation: 1
-  lightness: 1
   brandStrength: 0.4960816
+  rhythmicContrast: 0.6738351
   brandColors:
     - '#1F0201'
     - '#FCFBFA'
     - '#C5BDBE'
     - '#EAAB89'
     - '#A35331'
-  rhythmicContrast: 0.6738351
+  lightness: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9336917
 typography_spectrum: 0.3727598
 name: Linda Garcia
