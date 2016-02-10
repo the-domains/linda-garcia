@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Happy Free Love]]></title>
+        <description><![CDATA[Happy Free Love]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 23:06:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's Alive!]]></title>
+            <description><![CDATA[<article><h1>It's Alive!</h1><p>It' alive!  Creating my world with "The Grid"</p></article>]]></description>
+            <link>undefinedits-alive/index.html</link>
+            <guid isPermaLink="false">3a2b6163-bb58-4aab-9265-8bb99775535a</guid>
+            <pubDate>Wed, 10 Feb 2016 23:06:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
